@@ -13,7 +13,7 @@ Built for the CogCulture Product Management Trainee assessment, Part 2.
 
 ## Demo Video
 
-🎥 Watch the project demonstration: [Demo Video](PASTE_YOUR_YOUTUBE_VIDEO_LINK_HERE)
+🎥 Watch the project demonstration: [Demo Video](https://drive.google.com/file/d/1FPuS63PUKxArSQMV_gpekWi3gsphEBE_/view?usp=sharing)
 
 
 ## How it works
