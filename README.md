@@ -1,4 +1,4 @@
-# 🔍 Fact-Check Agent
+# 🔍 Fact-Check Agent - Assessment
 
 A "Truth Layer" web app: upload a PDF, and the agent extracts every checkable
 claim (stats, dates, financial/technical figures), searches the live web to
