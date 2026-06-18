@@ -7,6 +7,15 @@ verify each one, and reports it as **Verified**, **Inaccurate**, or **False**
 
 Built for the CogCulture Product Management Trainee assessment, Part 2.
 
+## Live Demo
+
+🚀 Try the deployed application here: [Live App Link](https://cog-culture-fast-check-agent.streamlit.app/)
+
+## Demo Video
+
+🎥 Watch the project demonstration: [Demo Video](PASTE_YOUR_YOUTUBE_VIDEO_LINK_HERE)
+
+
 ## How it works
 
 ```
